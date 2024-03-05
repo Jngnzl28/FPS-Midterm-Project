@@ -7,15 +7,7 @@ public class RayShooter : MonoBehaviour
     private Camera cam;
 
 
-    private void OnGUI()
-    {
-        int size = 100;
-
-        float posX = cam.pixelWidth / 2 - size / 4;
-        float posY = cam.pixelHeight / 2 - size / 2;
-
-        GUI.Label(new Rect(posX, posY, size, size), "*");
-    }
+   
     // Start is called before the first frame update
     void Start()
     {
