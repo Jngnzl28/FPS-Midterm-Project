@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 868.8
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 321}
   m_MaxSize: {x: 10000, y: 10000}
@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 296.80002
     height: 545.6
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -364,7 +364,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: f4780000
       m_LastClickedID: 0
       m_ExpandedIDs: 0efbffff
       m_RenameOverlay:
@@ -992,7 +992,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.08455028, y: -0.91532815, z: 0.28916764, w: -0.2675779}
     speed: 2
-    m_Value: {x: -0.084542245, y: -0.9152412, z: 0.28914016, w: -0.26755247}
+    m_Value: {x: 0.08455028, y: 0.91532815, z: -0.28916764, w: 0.2675779}
   m_Size:
     m_Target: 141.09018
     speed: 2
@@ -1174,7 +1174,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Textures
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1184,16 +1184,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Textures
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\jngnz\UnityProjects\FPS-Midterm-Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 135.79999}
-    m_SelectedIDs: 06790000
-    m_LastClickedID: 30982
-    m_ExpandedIDs: 000000009c7800009e780000a078000000ca9a3b
+    scrollPos: {x: 0, y: 11.799988}
+    m_SelectedIDs: a0780000
+    m_LastClickedID: 30880
+    m_ExpandedIDs: 000000009e780000a078000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1250,7 +1250,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300002ca40000ae6600000000000016790000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
