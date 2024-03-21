@@ -389,6 +389,7 @@
 "Assets/Scripts/FireballLauncher.cs"
 "Assets/Scripts/FireShooter.cs"
 "Assets/Scripts/FPSInput.cs"
+"Assets/Scripts/KillCounter.cs"
 "Assets/Scripts/MouseLook.cs"
 "Assets/Scripts/PlayerCharacter.cs"
 "Assets/Scripts/PlayerFireball.cs"

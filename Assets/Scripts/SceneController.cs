@@ -4,9 +4,10 @@ using UnityEngine;
 
 public class SceneController : MonoBehaviour
 {
+    public static SceneController instance;
     [SerializeField] GameObject enemyPrefab;
-
     private GameObject enemy;
+    public int enemycount = 10;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,10 +19,15 @@ public class SceneController : MonoBehaviour
     {
         if (enemy == null)
         {
-            enemy = Instantiate(enemyPrefab) as GameObject;
-            enemy.transform.position = new Vector3(0, 5, 0);
-            float angle = Random.Range(0, 350);
-            enemy.transform.Rotate(0, angle, 0);
+
+            for (int i = 0; i < enemycount; i++)
+            {
+                enemy = Instantiate(enemyPrefab) as GameObject;
+                enemy.transform.position = new Vector3(0, 5, 0);
+                float angle = Random.Range(0, 350);
+                enemy.transform.Rotate(0, angle, 0);
+            }
+ 
         }
     }
 }

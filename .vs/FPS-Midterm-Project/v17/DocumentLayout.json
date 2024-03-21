@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F1127C4-5005-1F66-B008-C7E5CE30E42D}|Assembly-CSharp.csproj|c:\\users\\jngnz\\unityprojects\\fps-midterm-project\\assets\\scripts\\killcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1127C4-5005-1F66-B008-C7E5CE30E42D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\killcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1127C4-5005-1F66-B008-C7E5CE30E42D}|Assembly-CSharp.csproj|C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\assets\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1127C4-5005-1F66-B008-C7E5CE30E42D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F1127C4-5005-1F66-B008-C7E5CE30E42D}|Assembly-CSharp.csproj|c:\\users\\jngnz\\unityprojects\\fps-midterm-project\\assets\\scripts\\playerfireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F1127C4-5005-1F66-B008-C7E5CE30E42D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerfireball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{6F1127C4-5005-1F66-B008-C7E5CE30E42D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fpsinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F1127C4-5005-1F66-B008-C7E5CE30E42D}|Assembly-CSharp.csproj|C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\assets\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F1127C4-5005-1F66-B008-C7E5CE30E42D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F1127C4-5005-1F66-B008-C7E5CE30E42D}|Assembly-CSharp.csproj|C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\assets\\scripts\\wanderingai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F1127C4-5005-1F66-B008-C7E5CE30E42D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wanderingai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,7 +35,7 @@
       "RelativeMoniker": "D:0:0:{6F1127C4-5005-1F66-B008-C7E5CE30E42D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\reactivetarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F1127C4-5005-1F66-B008-C7E5CE30E42D}|Assembly-CSharp.csproj|c:\\users\\jngnz\\unityprojects\\fps-midterm-project\\assets\\scripts\\rayshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F1127C4-5005-1F66-B008-C7E5CE30E42D}|Assembly-CSharp.csproj|C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\assets\\scripts\\rayshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F1127C4-5005-1F66-B008-C7E5CE30E42D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rayshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "KillCounter.cs",
+              "DocumentMoniker": "C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\Assets\\Scripts\\KillCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KillCounter.cs",
+              "ToolTip": "C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\Assets\\Scripts\\KillCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KillCounter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:49:18.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "RayShooter.cs",
               "DocumentMoniker": "C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\Assets\\Scripts\\RayShooter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RayShooter.cs",
@@ -58,12 +75,11 @@
               "RelativeToolTip": "Assets\\Scripts\\RayShooter.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAYwCAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T22:04:22.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T22:04:22.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ReactiveTarget.cs",
               "DocumentMoniker": "C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\Assets\\Scripts\\ReactiveTarget.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ReactiveTarget.cs",
@@ -71,12 +87,11 @@
               "RelativeToolTip": "Assets\\Scripts\\ReactiveTarget.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T20:13:56.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T20:13:56.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "WanderingAI.cs",
               "DocumentMoniker": "C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\Assets\\Scripts\\WanderingAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WanderingAI.cs",
@@ -84,25 +99,24 @@
               "RelativeToolTip": "Assets\\Scripts\\WanderingAI.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAQwDIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T20:12:47.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T20:12:47.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "SceneController.cs",
               "DocumentMoniker": "C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\Assets\\Scripts\\SceneController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SceneController.cs",
               "ToolTip": "C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\Assets\\Scripts\\SceneController.cs",
               "RelativeToolTip": "Assets\\Scripts\\SceneController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwB0AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T20:12:32.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FPSInput.cs",
               "DocumentMoniker": "C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\Assets\\Scripts\\FPSInput.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FPSInput.cs",
@@ -110,12 +124,11 @@
               "RelativeToolTip": "Assets\\Scripts\\FPSInput.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T20:12:57.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T20:12:57.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PlayerFireball.cs",
               "DocumentMoniker": "C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\Assets\\Scripts\\PlayerFireball.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerFireball.cs",
@@ -128,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FireballLauncher.cs",
               "DocumentMoniker": "C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\Assets\\Scripts\\FireballLauncher.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FireballLauncher.cs",
@@ -136,12 +149,11 @@
               "RelativeToolTip": "Assets\\Scripts\\FireballLauncher.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T19:53:12.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T19:53:12.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Fireball.cs",
               "DocumentMoniker": "C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\Assets\\Scripts\\Fireball.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Fireball.cs",
@@ -149,12 +161,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Fireball.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T23:03:52.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-02T23:03:52.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MouseLook.cs",
               "DocumentMoniker": "C:\\Users\\jngnz\\UnityProjects\\FPS-Midterm-Project\\Assets\\Scripts\\MouseLook.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MouseLook.cs",
