@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class ReactiveTarget : MonoBehaviour
 {
+    KillCounter killcountscript;
     public void ReactToHit()
     {
         WanderingAI behavior = GetComponent<WanderingAI>();
@@ -21,12 +22,14 @@ public class ReactiveTarget : MonoBehaviour
         yield return new WaitForSeconds(1.5f);
 
         Destroy(this.gameObject);
+        
+        killcountscript.addKills();
 
     }
     // Start is called before the first frame update
     void Start()
     {
-        
+        killcountscript = GameObject.Find("Kills").GetComponent<KillCounter>();
     }
 
     // Update is called once per frame
