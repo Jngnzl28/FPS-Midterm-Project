@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class KillCounter : MonoBehaviour
 {
@@ -26,6 +27,10 @@ public class KillCounter : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        showKills();        
+        showKills();
+        /*if (kills == 15)
+        {
+            SceneManager.LoadScene("GameOver");
+        }*/
     }
 }
