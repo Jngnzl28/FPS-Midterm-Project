@@ -29,7 +29,7 @@ public class ReactiveTarget : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        killcountscript = GameObject.Find("Kills").GetComponent<KillCounter>();
     }
 
     // Update is called once per frame
